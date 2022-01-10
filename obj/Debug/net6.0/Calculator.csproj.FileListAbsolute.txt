@@ -1,0 +1,30 @@
+H:\Marco Jobim\Exercícios C#\Calculator\bin\Debug\net6.0\Calculator.exe
+H:\Marco Jobim\Exercícios C#\Calculator\bin\Debug\net6.0\Calculator.deps.json
+H:\Marco Jobim\Exercícios C#\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+H:\Marco Jobim\Exercícios C#\Calculator\bin\Debug\net6.0\Calculator.dll
+H:\Marco Jobim\Exercícios C#\Calculator\bin\Debug\net6.0\ref\Calculator.dll
+H:\Marco Jobim\Exercícios C#\Calculator\bin\Debug\net6.0\Calculator.pdb
+H:\Marco Jobim\Exercícios C#\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+H:\Marco Jobim\Exercícios C#\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+H:\Marco Jobim\Exercícios C#\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+H:\Marco Jobim\Exercícios C#\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+H:\Marco Jobim\Exercícios C#\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+H:\Marco Jobim\Exercícios C#\Calculator\obj\Debug\net6.0\Calculator.dll
+H:\Marco Jobim\Exercícios C#\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+H:\Marco Jobim\Exercícios C#\Calculator\obj\Debug\net6.0\Calculator.pdb
+H:\Marco Jobim\Exercícios C#\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+H:\ExerciciosCSharp\Calculator\bin\Debug\net6.0\Calculator.exe
+H:\ExerciciosCSharp\Calculator\bin\Debug\net6.0\Calculator.deps.json
+H:\ExerciciosCSharp\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+H:\ExerciciosCSharp\Calculator\bin\Debug\net6.0\Calculator.dll
+H:\ExerciciosCSharp\Calculator\bin\Debug\net6.0\ref\Calculator.dll
+H:\ExerciciosCSharp\Calculator\bin\Debug\net6.0\Calculator.pdb
+H:\ExerciciosCSharp\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+H:\ExerciciosCSharp\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+H:\ExerciciosCSharp\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+H:\ExerciciosCSharp\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+H:\ExerciciosCSharp\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+H:\ExerciciosCSharp\Calculator\obj\Debug\net6.0\Calculator.dll
+H:\ExerciciosCSharp\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+H:\ExerciciosCSharp\Calculator\obj\Debug\net6.0\Calculator.pdb
+H:\ExerciciosCSharp\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache

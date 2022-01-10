@@ -1,0 +1,15 @@
+H:\Marco Jobim\Exercícios C#\Calculadora\bin\Debug\net6.0\Calculadora.exe
+H:\Marco Jobim\Exercícios C#\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+H:\Marco Jobim\Exercícios C#\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+H:\Marco Jobim\Exercícios C#\Calculadora\bin\Debug\net6.0\Calculadora.dll
+H:\Marco Jobim\Exercícios C#\Calculadora\bin\Debug\net6.0\ref\Calculadora.dll
+H:\Marco Jobim\Exercícios C#\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+H:\Marco Jobim\Exercícios C#\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+H:\Marco Jobim\Exercícios C#\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+H:\Marco Jobim\Exercícios C#\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+H:\Marco Jobim\Exercícios C#\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+H:\Marco Jobim\Exercícios C#\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+H:\Marco Jobim\Exercícios C#\Calculadora\obj\Debug\net6.0\Calculadora.dll
+H:\Marco Jobim\Exercícios C#\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
+H:\Marco Jobim\Exercícios C#\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+H:\Marco Jobim\Exercícios C#\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
